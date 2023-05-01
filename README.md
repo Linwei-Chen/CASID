@@ -19,7 +19,7 @@ Furthermore, we conduct extensive experiments to evaluate the latest semantic se
 
 
 
-<img src="https://github.com/Linwei-Chen/CASID/tree/main/static/dataset_overview.png" width="1024px">
+<img src="https://github.com/Linwei-Chen/CASID/blob/main/static/dataset_overview.png" width="1024px">
 
 The distribution of the geographical locations of images in CASID. 
 The ``” indicates the sampling areas.
