@@ -19,24 +19,18 @@ Furthermore, we conduct extensive experiments to evaluate the latest semantic se
 
 
 
-
-
-<img src="https://github.com/Linwei-Chen.png" width="1024px">
-
-Comparison between our CASIDand themain land-cover datasets for semantic segmentation (SS) and unsupervised domain adaptation (UDA).
-
-
-
-
-
-
-
-<img src="https://github.com/Linwei-Chen.png" width="1024px">
+<img src="https://github.com/Linwei-Chen/CASID/static/dataset_comparison.png" width="1024px">
 
 The distribution of the geographical locations of images in CASID. 
 The ``$\Box$” indicates the sampling areas.
 The blue, green, yellow, and red in the climate map indicate four typical climates, i.e., temperate monsoon, subtropical monsoon, tropical monsoon, and tropical rainforest.
 We illustrate some representative image samples from four climate zones and corresponding pixel-wise land-cover labels.
+
+
+
+Comparison between our CASIDand themain land-cover datasets for semantic segmentation (SS) and unsupervised domain adaptation (UDA).
+
+<img src="https://github.com/Linwei-Chen/CASID/static/dataset_comparison.png" width="1024px">
 
 
 
