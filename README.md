@@ -22,7 +22,7 @@ Furthermore, we conduct extensive experiments to evaluate the latest semantic se
 <img src="https://github.com/Linwei-Chen/CASID/blob/main/static/dataset_overview.png" width="1024px">
 
 The distribution of the geographical locations of images in CASID. 
-The ``” indicates the sampling areas.
+The box indicates the sampling areas.
 The blue, green, yellow, and red in the climate map indicate four typical climates, i.e., temperate monsoon, subtropical monsoon, tropical monsoon, and tropical rainforest.
 We illustrate some representative image samples from four climate zones and corresponding pixel-wise land-cover labels.
 
@@ -30,7 +30,7 @@ We illustrate some representative image samples from four climate zones and corr
 
 Comparison between our CASIDand themain land-cover datasets for semantic segmentation (SS) and unsupervised domain adaptation (UDA).
 
-<img src="https://github.com/Linwei-Chen/CASID/tree/main/static/dataset_comparison.png" width="1024px">
+<img src="https://github.com/Linwei-Chen/CASID/blob/main/static/dataset_comparison.png" width="1024px">
 
 
 
