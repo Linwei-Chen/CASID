@@ -19,6 +19,8 @@ Furthermore, we conduct extensive experiments to evaluate the latest semantic se
 
 
 
+## Dataset Overview
+
 <img src="https://github.com/Linwei-Chen/CASID/blob/main/static/dataset_overview.png" width="1024px">
 
 The distribution of the geographical locations of images in CASID. 
@@ -28,10 +30,14 @@ We illustrate some representative image samples from four climate zones and corr
 
 
 
+## Dataset Comparison
+
 Comparison between our CASIDand themain land-cover datasets for semantic segmentation (SS) and unsupervised domain adaptation (UDA).
 
 <img src="https://github.com/Linwei-Chen/CASID/blob/main/static/dataset_comparison.png" width="1024px">
 
 
+
+## Dataset  Download
 
 The dataset will be released soon.
