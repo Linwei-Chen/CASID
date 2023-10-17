@@ -55,3 +55,22 @@ Extraction Code: casi
 
 Tropical Rainforest Climate: [Link](https://pan.baidu.com/s/1OJTeQRKd9NOjUGJZMMzHfQ) 
 Extraction Code: casi
+
+## Citation
+
+Please cite the following:
+
+```
+@article{LIU202398,
+	title = {A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation},
+	journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+	volume = {205},
+	pages = {98-114},
+	year = {2023},
+	issn = {0924-2716},
+	doi = {https://doi.org/10.1016/j.isprsjprs.2023.09.007},
+	url = {https://www.sciencedirect.com/science/article/pii/S0924271623002484},
+author = {Songlin Liu and Linwei Chen and Li Zhang and Jun Hu and Ying Fu},
+}
+```
+
