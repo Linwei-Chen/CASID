@@ -42,5 +42,16 @@ Comparison between our CASIDand themain land-cover datasets for semantic segment
 
 Some dataset samples are available at [link](https://pan.baidu.com/s/1Y8XgLWDEomH7Z16i3r3Ufw) (code: casi).
 
-The whole dataset will be released soon.
+The whole dataset: 
 
+Temperate Monsoon Climate: [Link](https://pan.baidu.com/s/1dyaWq63osAJbgwPbPDIX6Q) 
+Extraction Code: casi 
+
+Subtropical Monsoon Climate: [Link](https://pan.baidu.com/s/1aSEy_xZP3pxzxglia1J0xw) 
+Extraction Code: casi 
+
+Tropical Monsoon Climate: [Link](https://pan.baidu.com/s/1WEZ4daJKPwbvUa0preofAg) 
+Extraction Code: casi 
+
+Tropical Rainforest Climate: [Link](https://pan.baidu.com/s/1OJTeQRKd9NOjUGJZMMzHfQ) 
+Extraction Code: casi
