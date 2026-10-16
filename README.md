@@ -59,7 +59,13 @@ snapshot_download('Linwei-Chen/CASID', repo_type='dataset', local_dir='CASID-dat
 
 > In mainland China you can set the mirror endpoint: `export HF_ENDPOINT=https://hf-mirror.com`
 >
-> A small sample subset is also available at [Baidu Netdisk](https://pan.baidu.com/s/1Y8XgLWDEomH7Z16i3r3Ufw) (code: `casi`).
+> The full dataset is also mirrored on Baidu Netdisk (code: `casi`):
+> Temperate Monsoon: [Link](https://pan.baidu.com/s/1dyaWq63osAJbgwPbPDIX6Q) ·
+> Subtropical Monsoon: [Link](https://pan.baidu.com/s/1aSEy_xZP3pxzxglia1J0xw) ·
+> Tropical Monsoon: [Link](https://pan.baidu.com/s/1WEZ4daJKPwbvUa0preofAg) ·
+> Tropical Rainforest: [Link](https://pan.baidu.com/s/1OJTeQRKd9NOjUGJZMMzHfQ)
+>
+> A small sample subset is available at [Baidu Netdisk](https://pan.baidu.com/s/1Y8XgLWDEomH7Z16i3r3Ufw) (code: `casi`).
 
 ### 2. Verify integrity (recommended)
 
@@ -161,14 +167,16 @@ A model trained in one climate zone **collapses** in another (e.g., temperate mo
 If you find CASID useful for your research, please cite:
 
 ```bibtex
-@article{liu2023large,
-  title   = {A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation},
-  author  = {Liu, Songlin and Chen, Linwei and Zhang, Li and Hu, Jun and Fu, Ying},
-  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-  volume  = {205},
-  pages   = {98--114},
-  year    = {2023},
-  doi     = {10.1016/j.isprsjprs.2023.09.007}
+@article{LIU202398,
+	title = {A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation},
+	journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+	volume = {205},
+	pages = {98-114},
+	year = {2023},
+	issn = {0924-2716},
+	doi = {https://doi.org/10.1016/j.isprsjprs.2023.09.007},
+	url = {https://www.sciencedirect.com/science/article/pii/S0924271623002484},
+	author = {Songlin Liu and Linwei Chen and Li Zhang and Jun Hu and Ying Fu},
 }
 ```
 
