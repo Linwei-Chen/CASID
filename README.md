@@ -152,7 +152,7 @@ Training and testing within the same climate zone vs. across climate zones (Deep
 |---|---|---|---|---|
 | TemMs | **39.9** | 9.4 | 10.9 | 12.2 |
 | SubMs | 10.0 | **60.9** | 12.8 | 15.3 |
-| TroMs | 10.0 | 12.8 | **56.5** | 9.1 |
+| TroMs | 12.2 | 12.8 | **56.5** | 9.1 |
 | TroRf | 8.5 | 10.2 | 12.8 | **49.0** |
 
 A model trained in one climate zone **collapses** in another (e.g., temperate monsoon → tropical rainforest: only 12.2 mIoU). The paper additionally analyzes the gap via t-SNE global features, GLCM texture statistics, per-class distributions (forest: 76.2% in rainforest vs. 45.4% in temperate zones), spectral values, and object shapes, and benchmarks 12 segmentation methods and 7 UDA methods (up to DAFormer) — see the [paper](https://doi.org/10.1016/j.isprsjprs.2023.09.007) for full results.
