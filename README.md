@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://huggingface.co/datasets/Linwei-Chen/CASID"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-CASID-yellow" alt="Hugging Face Dataset"></a>
   <a href="https://doi.org/10.1016/j.isprsjprs.2023.09.007"><img src="https://img.shields.io/badge/ISPRS_JPRS-205%3A98--114%2C_2023-blue" alt="Paper"></a>
+  <a href="https://arxiv.org/abs/2610.21238"><img src="https://img.shields.io/badge/arXiv-2610.21238-b31b1b" alt="arXiv"></a>
 </p>
 
 **CASID: A Large-scale Climate-Aware Satellite Image Dataset for Domain Adaptive Land-Cover Semantic Segmentation**
@@ -174,7 +175,7 @@ If you find CASID useful for your research, please cite:
 	pages = {98-114},
 	year = {2023},
 	issn = {0924-2716},
-	doi = {https://doi.org/10.1016/j.isprsjprs.2023.09.007},
+	doi = {10.1016/j.isprsjprs.2023.09.007},
 	url = {https://www.sciencedirect.com/science/article/pii/S0924271623002484},
 	author = {Songlin Liu and Linwei Chen and Li Zhang and Jun Hu and Ying Fu},
 }
